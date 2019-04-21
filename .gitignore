@@ -1,0 +1,16 @@
+
+#build artifacts
+bin
+lib
+include
+*/__pycache__
+*.pytest_cache
+package
+pip-selfcheck.json
+pyvenv.cfg
+*.zip
+
+#Editors
+.DS_Store
+.idea/
+.vscode/
